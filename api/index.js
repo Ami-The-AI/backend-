@@ -36,6 +36,3 @@ app.listen(PORT, () => {
   console.log(`Backend running on port ${PORT}`);
 });
 
-app.get("/health", (req, res) => {
-  res.send("Backend is up and responding!");
-});
