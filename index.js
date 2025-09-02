@@ -1,4 +1,3 @@
-// index.js (frontend)
 document.addEventListener("DOMContentLoaded", () => {
   const form = document.getElementById("chat-form");
   const input = document.getElementById("prompt");
@@ -20,4 +19,4 @@ document.addEventListener("DOMContentLoaded", () => {
       output.textContent = "Error: " + err.message;
     }
   });
-});frontend 
+});
