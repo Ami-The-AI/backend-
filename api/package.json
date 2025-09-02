@@ -10,8 +10,7 @@
   "dependencies": {
     "express": "^4.21.2",
     "dotenv": "^16.3.1",
-    "openai": "^4.25.0" // You can omit this if not using the OpenAI SDK
-  },
+    "openai": "^4.25.0" },
   "devDependencies": {
     "nodemon": "^3.1.0"
   },
@@ -19,3 +18,10 @@
     "node": ">=20.0.0"
   }
 }
+
+
+
+
+
+
+
